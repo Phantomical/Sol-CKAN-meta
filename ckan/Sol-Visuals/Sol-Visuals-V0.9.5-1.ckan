@@ -29,16 +29,16 @@
   ],
   "depends": [
     {
-      "name": "Sol-Core"
-    },
-    {
-      "name": "EnvironmentalVisualEnhancements"
+      "name": "Scatterer"
     },
     {
       "name": "ModuleManager"
     },
     {
-      "name": "Scatterer"
+      "name": "Sol-Core"
+    },
+    {
+      "name": "EnvironmentalVisualEnhancements"
     }
   ],
   "install": [
