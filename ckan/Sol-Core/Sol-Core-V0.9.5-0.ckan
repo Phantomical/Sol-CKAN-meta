@@ -27,25 +27,16 @@
   ],
   "depends": [
     {
-      "name": "Sol-NeptuneSystem"
-    },
-    {
-      "name": "Sol-AsteroidBelt"
-    },
-    {
-      "name": "Sol-MarsSystem"
-    },
-    {
-      "name": "Sol-Visuals"
+      "name": "Kopernicus"
     },
     {
       "name": "Sol-JupiterSystem"
     },
     {
-      "name": "Harmony2"
+      "name": "Sol-EarthSystem"
     },
     {
-      "name": "KSPTextureLoader"
+      "name": "AdvancedPQSTools"
     },
     {
       "name": "KSCSwitcher"
@@ -54,49 +45,58 @@
       "name": "Sol-KuiperBelt"
     },
     {
-      "name": "Kopernicus"
-    },
-    {
-      "name": "Sol-Venus"
-    },
-    {
-      "name": "Sol-Launchsites"
-    },
-    {
-      "name": "Sol-SaturnSystem"
-    },
-    {
-      "name": "KSPBurst"
-    },
-    {
-      "name": "AdvancedPQSTools"
-    },
-    {
-      "name": "KSPCommunityFixes"
+      "name": "Harmony2"
     },
     {
       "name": "ParallaxContinued-KTL"
     },
     {
-      "name": "TextureReplacer"
-    },
-    {
-      "name": "Sol-UranusSystem"
-    },
-    {
-      "name": "Sol-EarthSystem"
-    },
-    {
-      "name": "Sol-Sun"
+      "name": "KSPBurst"
     },
     {
       "name": "Sol-Mercury"
     },
     {
-      "name": "BurstPQS"
+      "name": "Sol-UranusSystem"
+    },
+    {
+      "name": "Sol-Launchsites"
+    },
+    {
+      "name": "Sol-NeptuneSystem"
+    },
+    {
+      "name": "KSPTextureLoader"
+    },
+    {
+      "name": "Sol-Visuals"
+    },
+    {
+      "name": "TextureReplacer"
+    },
+    {
+      "name": "Sol-AsteroidBelt"
     },
     {
       "name": "Sol-Configs"
+    },
+    {
+      "name": "Sol-MarsSystem"
+    },
+    {
+      "name": "Sol-Venus"
+    },
+    {
+      "name": "Sol-SaturnSystem"
+    },
+    {
+      "name": "BurstPQS"
+    },
+    {
+      "name": "KSPCommunityFixes"
+    },
+    {
+      "name": "Sol-Sun"
     }
   ],
   "conflicts": [
