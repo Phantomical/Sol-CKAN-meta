@@ -35,10 +35,10 @@
       "name": "EnvironmentalVisualEnhancements"
     },
     {
-      "name": "Scatterer"
+      "name": "ModuleManager"
     },
     {
-      "name": "ModuleManager"
+      "name": "Scatterer"
     }
   ],
   "install": [
@@ -56,5 +56,5 @@
   "download_content_type": "application/zip",
   "install_size": 120837,
   "release_date": "2026-04-01T18:26:52Z",
-  "x_generated_by": "rkan"
+  "x_generated_by": "rkan/0.1.2"
 }

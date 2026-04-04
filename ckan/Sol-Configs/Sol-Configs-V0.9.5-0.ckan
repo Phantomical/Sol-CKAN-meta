@@ -23,10 +23,10 @@
   ],
   "depends": [
     {
-      "name": "ModuleManager"
+      "name": "Sol-Core"
     },
     {
-      "name": "Sol-Core"
+      "name": "ModuleManager"
     }
   ],
   "install": [
@@ -44,5 +44,5 @@
   "download_content_type": "application/zip",
   "install_size": 4668669,
   "release_date": "2026-04-01T21:01:10Z",
-  "x_generated_by": "rkan"
+  "x_generated_by": "rkan/0.1.2"
 }

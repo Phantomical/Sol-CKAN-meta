@@ -27,55 +27,10 @@
   ],
   "depends": [
     {
-      "name": "Sol-JupiterSystem"
-    },
-    {
-      "name": "AdvancedPQSTools"
-    },
-    {
-      "name": "KSPTextureLoader"
-    },
-    {
-      "name": "KSPBurst"
-    },
-    {
-      "name": "Sol-Sun"
-    },
-    {
-      "name": "TextureReplacer"
-    },
-    {
-      "name": "Harmony2"
-    },
-    {
-      "name": "Sol-KuiperBelt"
-    },
-    {
-      "name": "Sol-EarthSystem"
-    },
-    {
-      "name": "ParallaxContinued-KTL"
+      "name": "Sol-NeptuneSystem"
     },
     {
       "name": "Sol-AsteroidBelt"
-    },
-    {
-      "name": "Sol-Configs"
-    },
-    {
-      "name": "Sol-SaturnSystem"
-    },
-    {
-      "name": "Sol-UranusSystem"
-    },
-    {
-      "name": "KSCSwitcher"
-    },
-    {
-      "name": "Sol-Venus"
-    },
-    {
-      "name": "Sol-Mercury"
     },
     {
       "name": "Sol-MarsSystem"
@@ -84,19 +39,64 @@
       "name": "Sol-Visuals"
     },
     {
-      "name": "KSPCommunityFixes"
+      "name": "Sol-JupiterSystem"
     },
     {
-      "name": "Sol-Launchsites"
+      "name": "Harmony2"
     },
     {
-      "name": "Sol-NeptuneSystem"
+      "name": "KSPTextureLoader"
+    },
+    {
+      "name": "KSCSwitcher"
+    },
+    {
+      "name": "Sol-KuiperBelt"
     },
     {
       "name": "Kopernicus"
     },
     {
+      "name": "Sol-Venus"
+    },
+    {
+      "name": "Sol-Launchsites"
+    },
+    {
+      "name": "Sol-SaturnSystem"
+    },
+    {
+      "name": "KSPBurst"
+    },
+    {
+      "name": "AdvancedPQSTools"
+    },
+    {
+      "name": "KSPCommunityFixes"
+    },
+    {
+      "name": "ParallaxContinued-KTL"
+    },
+    {
+      "name": "TextureReplacer"
+    },
+    {
+      "name": "Sol-UranusSystem"
+    },
+    {
+      "name": "Sol-EarthSystem"
+    },
+    {
+      "name": "Sol-Sun"
+    },
+    {
+      "name": "Sol-Mercury"
+    },
+    {
       "name": "BurstPQS"
+    },
+    {
+      "name": "Sol-Configs"
     }
   ],
   "conflicts": [
@@ -119,5 +119,5 @@
   "download_content_type": "application/zip",
   "install_size": 206306887,
   "release_date": "2026-04-01T02:04:44Z",
-  "x_generated_by": "rkan"
+  "x_generated_by": "rkan/0.1.2"
 }
