@@ -23,10 +23,10 @@
   ],
   "depends": [
     {
-      "name": "ModuleManager"
+      "name": "Sol-Core"
     },
     {
-      "name": "Sol-Core"
+      "name": "ModuleManager"
     }
   ],
   "install": [
