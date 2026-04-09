@@ -27,73 +27,73 @@
   ],
   "depends": [
     {
-      "name": "Harmony2"
-    },
-    {
       "name": "Kopernicus"
-    },
-    {
-      "name": "ParallaxContinued-KTL"
-    },
-    {
-      "name": "Sol-UranusSystem"
-    },
-    {
-      "name": "Sol-Visuals"
-    },
-    {
-      "name": "KSPTextureLoader"
-    },
-    {
-      "name": "KSPBurst"
-    },
-    {
-      "name": "Sol-Launchsites"
-    },
-    {
-      "name": "TextureReplacer"
-    },
-    {
-      "name": "Sol-JupiterSystem"
-    },
-    {
-      "name": "KSPCommunityFixes"
-    },
-    {
-      "name": "Sol-SaturnSystem"
-    },
-    {
-      "name": "BurstPQS"
-    },
-    {
-      "name": "Sol-Mercury"
     },
     {
       "name": "Sol-NeptuneSystem"
     },
     {
-      "name": "AdvancedPQSTools"
-    },
-    {
-      "name": "KSCSwitcher"
-    },
-    {
-      "name": "Sol-AsteroidBelt"
-    },
-    {
       "name": "Sol-MarsSystem"
+    },
+    {
+      "name": "Sol-SaturnSystem"
+    },
+    {
+      "name": "KSPCommunityFixes"
+    },
+    {
+      "name": "Sol-JupiterSystem"
+    },
+    {
+      "name": "Harmony2"
+    },
+    {
+      "name": "BurstPQS"
+    },
+    {
+      "name": "KSPTextureLoader"
     },
     {
       "name": "Sol-Configs"
     },
     {
-      "name": "Sol-Sun"
-    },
-    {
       "name": "Sol-EarthSystem"
     },
     {
+      "name": "Sol-Launchsites"
+    },
+    {
+      "name": "KSCSwitcher"
+    },
+    {
+      "name": "ParallaxContinued-KTL"
+    },
+    {
+      "name": "Sol-Visuals"
+    },
+    {
+      "name": "Sol-Sun"
+    },
+    {
       "name": "Sol-Venus"
+    },
+    {
+      "name": "Sol-AsteroidBelt"
+    },
+    {
+      "name": "Sol-Mercury"
+    },
+    {
+      "name": "KSPBurst"
+    },
+    {
+      "name": "Sol-UranusSystem"
+    },
+    {
+      "name": "TextureReplacer"
+    },
+    {
+      "name": "AdvancedPQSTools"
     },
     {
       "name": "Sol-KuiperBelt"
@@ -101,16 +101,16 @@
   ],
   "conflicts": [
     {
-      "name": "RealSolarSystem"
+      "name": "RP-1-ExpressInstall-Graphics-High"
     },
     {
-      "name": "RP-1-ExpressInstall-Graphics-High"
+      "name": "RP-1-ExpressInstall-Graphics-Low"
     },
     {
       "name": "RP-1-ExpressInstall-Graphics-Medium"
     },
     {
-      "name": "RP-1-ExpressInstall-Graphics-Low"
+      "name": "RealSolarSystem"
     }
   ],
   "install": [
@@ -128,5 +128,5 @@
   "download_content_type": "application/zip",
   "install_size": 206306887,
   "release_date": "2026-04-01T02:04:44Z",
-  "x_generated_by": "rkan/0.2.0"
+  "x_generated_by": "rkan/0.1.2"
 }
