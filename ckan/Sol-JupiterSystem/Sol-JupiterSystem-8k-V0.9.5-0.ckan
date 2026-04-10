@@ -1,5 +1,5 @@
 {
-  "spec_version": 1,
+  "spec_version": "v1.34",
   "identifier": "Sol-JupiterSystem-8k",
   "name": "Sol Jupiter System Textures (8k)",
   "abstract": "Sol Textures for the entire Jupiter System!",
@@ -52,5 +52,5 @@
   "download_content_type": "application/zip",
   "install_size": 821912518,
   "release_date": "2026-04-01T03:50:52Z",
-  "x_generated_by": "rkan/0.1.2"
+  "x_generated_by": "rkan/0.3.0"
 }

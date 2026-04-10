@@ -1,5 +1,5 @@
 {
-  "spec_version": 1,
+  "spec_version": "v1.34",
   "identifier": "Sol-AsteroidBelt-8k",
   "name": "Sol Asteroid Belt Textures (8k)",
   "abstract": "Sol Textures for various Asteroid Belt Objects",
@@ -52,5 +52,5 @@
   "download_content_type": "application/zip",
   "install_size": 934452584,
   "release_date": "2026-04-01T03:57:53Z",
-  "x_generated_by": "rkan/0.1.2"
+  "x_generated_by": "rkan/0.3.0"
 }

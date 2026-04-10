@@ -1,5 +1,5 @@
 {
-  "spec_version": 1,
+  "spec_version": "v1.34",
   "identifier": "ParallaxContinued-KTL",
   "name": "Parallax Continued (KSP Texture Loader Fork)",
   "abstract": "A visual mod which overhauls the planet shaders and adds grass, forest, and other types of surface clutter (fork by KSP Texture Loader team)\n",
@@ -26,25 +26,25 @@
   ],
   "depends": [
     {
-      "name": "ParallaxContinued-Terrain-Textures"
+      "name": "ModuleManager"
     },
     {
-      "name": "ParallaxContinued-Planet-Textures"
-    },
-    {
-      "name": "ParallaxContinued-Scatter-Textures"
-    },
-    {
-      "name": "KSPTextureLoader"
+      "name": "Kopernicus"
     },
     {
       "name": "KSPBurst"
     },
     {
-      "name": "ModuleManager"
+      "name": "ParallaxContinued-Terrain-Textures"
     },
     {
-      "name": "Kopernicus"
+      "name": "ParallaxContinued-Scatter-Textures"
+    },
+    {
+      "name": "ParallaxContinued-Planet-Textures"
+    },
+    {
+      "name": "KSPTextureLoader"
     }
   ],
   "recommends": [
@@ -54,16 +54,16 @@
   ],
   "conflicts": [
     {
-      "name": "Parallax-StockScatterTextures"
+      "name": "ParallaxContinued"
     },
     {
-      "name": "ParallaxContinued"
+      "name": "Parallax"
     },
     {
       "name": "Parallax-StockTextures"
     },
     {
-      "name": "Parallax"
+      "name": "Parallax-StockScatterTextures"
     }
   ],
   "install": [
@@ -81,5 +81,5 @@
   "download_content_type": "application/zip",
   "install_size": 25935513,
   "release_date": "2026-04-10T01:43:50Z",
-  "x_generated_by": "rkan/0.1.2"
+  "x_generated_by": "rkan/0.3.0"
 }

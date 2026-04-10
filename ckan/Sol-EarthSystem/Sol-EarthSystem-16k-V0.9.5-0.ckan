@@ -1,5 +1,5 @@
 {
-  "spec_version": 1,
+  "spec_version": "v1.34",
   "identifier": "Sol-EarthSystem-16k",
   "name": "Sol Earth System Textures (16k)",
   "abstract": "Sol Textures for Earth and Luna.",
@@ -52,5 +52,5 @@
   "download_content_type": "application/zip",
   "install_size": 4021326287,
   "release_date": "2026-04-01T04:15:48Z",
-  "x_generated_by": "rkan/0.1.2"
+  "x_generated_by": "rkan/0.3.0"
 }

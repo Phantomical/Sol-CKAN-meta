@@ -1,5 +1,5 @@
 {
-  "spec_version": 1,
+  "spec_version": "v1.34",
   "identifier": "Sol-Core",
   "name": "Sol Core",
   "abstract": "Core Textures and Sounds for Sol",
@@ -27,55 +27,24 @@
   ],
   "depends": [
     {
-      "name": "Sol-UranusSystem"
-    },
-    {
-      "name": "Sol-MarsSystem"
-    },
-    {
-      "name": "KSCSwitcher"
+      "name": "Kopernicus",
+      "min_version": "release-1.12.1-242"
     },
     {
       "name": "KSPBurst"
     },
     {
-      "name": "Sol-NeptuneSystem"
-    },
-    {
       "name": "Harmony2"
-    },
-    {
-      "name": "KSPTextureLoader"
     },
     {
       "name": "ParallaxContinued-KTL"
     },
     {
-      "name": "Sol-EarthSystem"
+      "name": "KSPTextureLoader"
     },
     {
-      "name": "Sol-Configs"
-    },
-    {
-      "name": "AdvancedPQSTools"
-    },
-    {
-      "name": "Sol-Mercury"
-    },
-    {
-      "name": "Sol-KuiperBelt"
-    },
-    {
-      "name": "Sol-Sun"
-    },
-    {
-      "name": "Sol-Visuals"
-    },
-    {
-      "name": "Sol-AsteroidBelt"
-    },
-    {
-      "name": "Sol-Launchsites"
+      "name": "AdvancedPQSTools",
+      "min_version": "1.6.1"
     },
     {
       "name": "BurstPQS"
@@ -84,33 +53,78 @@
       "name": "KSPCommunityFixes"
     },
     {
-      "name": "Kopernicus"
-    },
-    {
-      "name": "Sol-JupiterSystem"
-    },
-    {
-      "name": "Sol-SaturnSystem"
-    },
-    {
-      "name": "Sol-Venus"
+      "name": "KSCSwitcher"
     },
     {
       "name": "TextureReplacer"
+    },
+    {
+      "name": "Sol-Configs"
+    },
+    {
+      "name": "Sol-Visuals"
+    },
+    {
+      "name": "Sol-Launchsites",
+      "choice_help_text": "Choose a launch sites texture resolution."
+    },
+    {
+      "name": "Sol-Sun",
+      "choice_help_text": "Choose a Sun texture resolution."
+    },
+    {
+      "name": "Sol-Mercury",
+      "choice_help_text": "Choose a Mercury texture resolution."
+    },
+    {
+      "name": "Sol-Venus",
+      "choice_help_text": "Choose a Venus texture resolution."
+    },
+    {
+      "name": "Sol-EarthSystem",
+      "choice_help_text": "Choose an Earth system texture resolution."
+    },
+    {
+      "name": "Sol-MarsSystem",
+      "choice_help_text": "Choose a Mars system texture resolution."
+    },
+    {
+      "name": "Sol-JupiterSystem",
+      "choice_help_text": "Choose a Jupiter system texture resolution."
+    },
+    {
+      "name": "Sol-SaturnSystem",
+      "choice_help_text": "Choose a Saturn system texture resolution."
+    },
+    {
+      "name": "Sol-UranusSystem",
+      "choice_help_text": "Choose a Uranus system texture resolution."
+    },
+    {
+      "name": "Sol-NeptuneSystem",
+      "choice_help_text": "Choose a Neptune system texture resolution."
+    },
+    {
+      "name": "Sol-AsteroidBelt",
+      "choice_help_text": "Choose an asteroid belt texture resolution."
+    },
+    {
+      "name": "Sol-KuiperBelt",
+      "choice_help_text": "Choose a Kuiper Belt texture resolution."
     }
   ],
   "conflicts": [
     {
-      "name": "RP-1-ExpressInstall-Graphics-Medium"
-    },
-    {
       "name": "RealSolarSystem"
     },
     {
-      "name": "RP-1-ExpressInstall-Graphics-Low"
+      "name": "RP-1-ExpressInstall-Graphics-High"
     },
     {
-      "name": "RP-1-ExpressInstall-Graphics-High"
+      "name": "RP-1-ExpressInstall-Graphics-Medium"
+    },
+    {
+      "name": "RP-1-ExpressInstall-Graphics-Low"
     }
   ],
   "install": [
@@ -128,5 +142,5 @@
   "download_content_type": "application/zip",
   "install_size": 206306887,
   "release_date": "2026-04-01T02:04:44Z",
-  "x_generated_by": "rkan/0.1.2"
+  "x_generated_by": "rkan/0.3.0"
 }
