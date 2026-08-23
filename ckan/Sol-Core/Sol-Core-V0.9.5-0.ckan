@@ -37,7 +37,8 @@
       "name": "Harmony2"
     },
     {
-      "name": "ParallaxContinued-KTL"
+      "name": "ParallaxContinued",
+      "min_version": "1.0.3"
     },
     {
       "name": "KSPTextureLoader"
