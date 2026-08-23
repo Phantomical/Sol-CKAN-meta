@@ -15,6 +15,6 @@ homepage = "https://github.com/rbeap/Sol-SPVE"
 Sol-Configs = "*"
 
 [[install]]
-file = "Sol-SPVE"
+file = "GameData/Sol-SPVE"
 install_to = "GameData"
 
